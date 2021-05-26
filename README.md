@@ -1,8 +1,8 @@
-###  분산시스템 (2021 - 1) using Hadoop :elephant:
+##  분산시스템 (2021 - 1) using Hadoop :elephant:
 
 -------
 
-##### 실습 과제 1 : Tf- Idf using Hadoop MapReduce 
+### 실습 과제 1 : Tf- Idf using Hadoop MapReduce 
 
   + First job
     + Mapper : document, content -> word@document,1 
@@ -15,4 +15,4 @@
 
 ----
 
-##### 실습 과제 2 :  PageRank
+### 실습 과제 2 :  PageRank
